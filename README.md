@@ -3,6 +3,7 @@
 **Student ID:** 001412302  
 **Institution:** University of Greenwich  
 **Module:** BUSI1783 Business Analytics Project  
+**Guide:** Shoaib Ul Haq
 
 ## 📌 Overview
 This repository contains the code and analysis pipeline used in my MSc Business Analytics dissertation.  
