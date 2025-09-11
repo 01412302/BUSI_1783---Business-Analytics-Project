@@ -60,5 +60,4 @@ The dataset includes metadata and user-generated review text for nine monetisati
 ---
 
 ## 🔹 Citation
-If using this dataset structure, please cite the dissertation and Steam as the original data source:  
 - Steamworks API: https://partner.steamgames.com/doc/store/getreviews
