@@ -1,0 +1,3 @@
+Best k: 5
+Silhouette: 0.566
+Features: ['author_playtime_at_review_h', 'sentiment', 'monetization_flag']
