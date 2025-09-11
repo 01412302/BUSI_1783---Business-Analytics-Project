@@ -3,7 +3,6 @@
 **Student ID:** 001412302  
 **Institution:** University of Greenwich  
 **Module:** BUSI1783 Business Analytics Project  
-**Guide:** Shoaib Ul Haq
 
 ## 📌 Overview
 This repository contains the code and analysis pipeline used in my MSc Business Analytics dissertation.  
@@ -18,8 +17,7 @@ The research analyses 35,874 Steam reviews from nine monetization-heavy games, e
 
 ## ⚖️ Ethics
 - Data collected from Steam’s public API in compliance with ToS.  
-- Reviews anonymised (SteamIDs removed).  
-- Only sample dataset uploaded here.  
+- Reviews anonymised (SteamIDs removed). 
 
 ## 🔗 Dissertation
 This repository supports transparency and reproducibility of analysis.
