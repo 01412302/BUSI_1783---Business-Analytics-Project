@@ -13,7 +13,6 @@ It complements the dissertation **Methodology chapter** and provides technical n
 - **Ethics:**  
   - Data collected via public API, in compliance with Steam ToS.  
   - SteamIDs removed/anonymised.  
-  - Only a sample subset uploaded to GitHub for transparency (`data/all_reviews_sample.csv`).  
 
 ---
 
@@ -75,7 +74,7 @@ Analysis conducted via the main pipeline (`scripts/analysis_pipeline.py`) and no
 ## 🔹 Reproducibility
 - All scripts and notebooks are versioned in this repository.  
 - Outputs (sample figures, tables, text summaries) are provided in `/outputs/`.  
-- Full dataset not uploaded due to ethical restrictions, but sample provided.  
+- Full dataset not uploaded due to ethical restrictions.
 - Dependencies listed in `requirements.txt`.  
 
 ---
